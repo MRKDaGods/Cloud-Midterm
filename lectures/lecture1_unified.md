@@ -346,7 +346,7 @@ Each question is followed by its answer and topic from the answer key.
 - D) Virtual; physical
 
 
-**Answer:** **A** — Homogeneous (Grid); Heterogeneous (Cluster)
+**Answer:** **C** — Heterogeneous (Grid); Homogeneous (Cluster)
 **Topic:** Grid/Cluster Computing
 
 ---

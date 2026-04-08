@@ -622,7 +622,7 @@ Each question is followed by its answer and topic from the answer key.
 - D) 4.5G
 
 
-**Answer:** **B** — 3G
+**Answer:** **C** — 4G
 **Topic:** 3GPP Standards
 
 ---

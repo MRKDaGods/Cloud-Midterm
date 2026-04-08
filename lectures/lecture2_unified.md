@@ -1077,7 +1077,7 @@ Each question is followed by its answer and topic from the answer key.
 
 ### Section 15: Virtualization Security Downsides
 
-**Q88.** A "Rouge Hypervisor" attack involves:
+**Q88.** A "Rogue Hypervisor" attack involves:
 - A) A VM consuming all CPU resources
 - B) Inserting a Virtual-Machine Based Rootkit (VMBR) between physical hardware and the real VMM
 - C) A container escaping its namespace
@@ -1085,7 +1085,7 @@ Each question is followed by its answer and topic from the answer key.
 
 
 **Answer:** **B** — Inserting a VMBR between physical hardware and the real VMM
-**Topic:** Rouge Hypervisor
+**Topic:** Rogue Hypervisor
 
 ---
 
@@ -1125,7 +1125,7 @@ Each question is followed by its answer and topic from the answer key.
 
 ---
 
-**Q92.** A "Rouge VM" is best described as:
+**Q92.** A "Rogue VM" is best described as:
 - A) A VM running a deprecated OS
 - B) A VM that fails to start
 - C) A hidden VM created by an attacker on your machine
@@ -1133,11 +1133,11 @@ Each question is followed by its answer and topic from the answer key.
 
 
 **Answer:** **C** — A hidden VM created by an attacker on your machine
-**Topic:** Rouge VM
+**Topic:** Rogue VM
 
 ---
 
-**Q93.** How can an attacker create a Rouge VM on a VMware ESXi server?
+**Q93.** How can an attacker create a Rogue VM on a VMware ESXi server?
 - A) By physically accessing the server room
 - B) By modifying the network switch configuration
 - C) By gaining SSH access and running simple scripts
@@ -1145,7 +1145,7 @@ Each question is followed by its answer and topic from the answer key.
 
 
 **Answer:** **C** — By gaining SSH access and running simple scripts
-**Topic:** Rouge VM
+**Topic:** Rogue VM
 
 ---
 
